@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Dheeraj Chepuri</h1>
 
 
-### About me:
+**🖐️ #About me:**<br>
 - 👨🏽‍💻 Learning things from first principles.
 - 📚 Love reading books.
 - 💼 I’m a working proffesional.
@@ -9,7 +9,7 @@
 
 
 
-### My Tech Stack:
+**⚙️ My Tech Stack:**<br>
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
