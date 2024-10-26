@@ -2,10 +2,9 @@
 
 
 ### About me:
-- 👨🏽‍💻 Learning things from first principles; 
-- 📚 Love reading books;
-- 💼 I’m a working proffesional;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 Learning things from first principles.
+- 📚 Love reading books.
+- 💼 I’m a working proffesional.
 - 📫 Please email me if you have any questions.
 
 
@@ -21,11 +20,11 @@
 
 
 
-### Contact me:
+**📫 Reach me at:**<br>
 
-- Blog: [![website](https://img.shields.io/badge/https://hashnode.com/@Dheeraj18-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://hashnode.com/@Dheeraj18)
-- Twitter: [![Twitter](https://img.shields.io/badge/@DheerajChepuri-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/DheerajChepuri) 
-- Email: [![Email](https://img.shields.io/badge/dheeraj.chepuri18@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dheerak.chepuri18@foxmail.com)
+[![website](https://img.shields.io/badge/https://hashnode.com/@Dheeraj18-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://hashnode.com/@Dheeraj18)
+[![Twitter](https://img.shields.io/badge/@DheerajChepuri-1DA1F2?style=flat-square&logo=twitter&logoColor=black)](https://twitter.com/DheerajChepuri) 
+ [![Email](https://img.shields.io/badge/dheeraj.chepuri18@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dheerak.chepuri18@foxmail.com)
 
 
 
